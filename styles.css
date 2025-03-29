@@ -586,6 +586,7 @@ footer .part1 p {
 
 footer .part2 {
   /* background: yellow; */
+  cursor: pointer;
 }
 
 footer .part2 h4 {
